@@ -1,0 +1,19 @@
+code 模式 M/Y
+
+标题
+一级#
+二级##
+
+黑体
+**X**
+
+*
+*空格
+
+1. 序号需要有空格
+
+插入图片
+一、![name](https:gif)
+二、<img src='./spacex.jpg',width=200>
+三、from IPython.display import Image
+      Image(filename='./spacex.jpg',width=200)
